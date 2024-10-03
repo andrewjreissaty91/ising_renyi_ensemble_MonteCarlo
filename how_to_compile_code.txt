@@ -1,0 +1,1 @@
+gfortran -O3 CvChi_ising_renyi_annealing.f90 random.c -o is.x
